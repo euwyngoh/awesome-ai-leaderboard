@@ -225,6 +225,7 @@ Also, a leaderboard should be included if only:
 | [Hebrew LLM Leaderboard](https://huggingface.co/spaces/hebrew-llm-leaderboard/leaderboard) | Hebrew LLM Leaderboard tracks and ranks language models according to their success on various tasks on Hebrew. |
 | [HellaSwag](https://rowanzellers.com/hellaswag) | HellaSwag is a benchmark to evaluate common-sense reasoning in LLMs. |
 | [Hughes Hallucination Evaluation Model leaderboard](https://huggingface.co/spaces/vectara/leaderboard) | Hughes Hallucination Evaluation Model leaderboard is a platform to evaluate how often a language model introduces hallucinations when summarizing a document. |
+| [Hypercritica Model Bench](https://hypercritica.com/benchmark/models) | Hypercritica Model Bench scores frontier models on manuscript editing (craft notes, line editing and proofreading polish) using unpublished pages and a cross-maker panel of AI judges. |
 | [Icelandic LLM leaderboard](https://huggingface.co/spaces/mideind/icelandic-llm-leaderboard) | Icelandic LLM leaderboard tracks and compare models on Icelandic-language tasks. |
 | [IFEval](https://huggingface.co/spaces/Krisseck/IFEval-Leaderboard) | IFEval is a benchmark to evaluate LLMs' instruction following capabilities with verifiable instructions. |
 | [IL-TUR](https://huggingface.co/spaces/Exploration-Lab/IL-TUR-Leaderboard) | IL-TUR is a benchmark for evaluating language models on monolingual and multilingual tasks focused on understanding and reasoning over Indian legal documents. |
@@ -375,7 +376,6 @@ Also, a leaderboard should be included if only:
 | [VMLU](https://vmlu.ai/leaderboard) | VMLU is a benchmark to evaluate overall capabilities of foundation models in Vietnamese. |
 | [Vinayak Multistep Recursive Reasoning Benchmark (VMRRB)](https://rankmodel.github.io) | VMRRB is a benchmark for evaluating advanced reasoning, recursive dependency resolution, and robustness in dynamic, noisy, and structurally challenging environments. [GitHub](https://github.com/vbepipe/vmrrb-benchmark). |
 | [WildBench](https://huggingface.co/spaces/allenai/WildBench) | WildBench is a benchmark for evaluating language models on challenging tasks that closely resemble real-world applications. |
-| [Wordsmith Model Bench](https://wordsmith.page/benchmark/models) | Wordsmith Model Bench scores frontier models on manuscript editing (craft notes, line editing and proofreading polish) using unpublished pages and a cross-maker panel of AI judges. |
 | [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark?tab=readme-ov-file#leaderboard) | Xiezhi is a benchmark for holistic domain knowledge evaluation of LLMs. |
 | [Yanolja Arena](https://huggingface.co/spaces/yanolja/arena) | Yanolja Arena host a model arena to evaluate the capabilities of LLMs in summarizing and translating text. |
 | [Yet Another LLM Leaderboard](https://huggingface.co/spaces/mlabonne/Yet_Another_LLM_Leaderboard) | Yet Another LLM Leaderboard is a platform for tracking, ranking, and evaluating open LLMs and chatbots. |
